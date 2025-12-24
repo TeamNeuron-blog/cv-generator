@@ -1,8 +1,6 @@
 # CV Generator by TeamNeuron
 
-An open-source, self-hostable CV generator tool that creates professional, ATS-friendly resumes using YAML and LaTeX (via [RenderCV](https://github.com/rendercv/rendercv)).
-
-![TeamNeuron CV Generator Preview](frontend/public/preview.png)
+An open-source, self-hostable CV generator tool that creates professional, ATS-friendly resumes using YAML and LaTeX.
 
 ## Features
 
