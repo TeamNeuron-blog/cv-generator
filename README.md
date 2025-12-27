@@ -2,6 +2,8 @@
 
 An open-source, self-hostable CV generator tool that creates professional, ATS-friendly resumes using YAML and LaTeX.
 
+Use this tool for free: https://cv-generator.tools.teamneuron.blogs
+
 ## Features
 
 -   **Form-Based Editor**: Edit your CV content with a user-friendly form interface.
